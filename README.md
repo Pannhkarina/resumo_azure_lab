@@ -94,3 +94,26 @@ A nuvem permite gerenciar todos os recursos a partir de portais centralizados e 
 * Logging
 * Alertas
 * Gestão simplificada de recursos e ambientes
+
+> ##  IaaS, PaaS e SaaS
+
+### IaaS (Infrastructure as a Service):
+Oferece infraestrutura básica de TI como máquinas virtuais, redes e armazenamento. O cliente gerencia o sistema operacional e aplicativos.
+
+### PaaS (Platform as a Service):
+Fornece uma plataforma completa para desenvolvimento, permitindo criar, testar e implantar aplicações sem gerenciar servidores.
+
+### SaaS (Software as a Service):
+Aplicativos completos fornecidos pela internet, já prontos para uso. O usuário apenas consome o serviço (ex.: Outlook, Teams, Salesforce).
+
+> ##  Modelo de Responsabilidade Compartilhada
+
+Na computação em nuvem, a segurança é dividida entre provedor e cliente:
+### Azure é responsável por:
+
+Segurança da nuvem (infraestrutura física, datacenters, hardware, rede, hypervisor).
+Conformidade global e proteção estrutural de dados.
+
+### O cliente é responsável por:
+Segurança na nuvem (configurações de acesso, dados, identidades, políticas, senhas, firewalls).
+Gerenciar aplicativos, usuários e configurações de segurança internas.
