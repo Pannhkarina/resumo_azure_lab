@@ -38,3 +38,59 @@ Compreendi a diferença entre os modelos de custo:
 
 * OpEx (Operational Expenditure) – custos operacionais pagos conforme o uso, como acontece na nuvem.
 A computação em nuvem reduz CapEx e aumenta a flexibilidade de OpEx.
+
+
+# Benefícios da Computação em Nuvem
+
+ > ##  Alta Disponibilidade
+
+A nuvem oferece sistemas projetados para ficar disponíveis a maior parte do tempo, com SLAs que podem chegar a:
+
+* 99% (até ~7h/mês de inatividade)
+* 99,9% (até ~44 min/mês)
+* 99,99% (até ~4 min/mês)
+* 99,999% (até ~26 s/mês)
+
+Quanto maior o SLA, maior a confiabilidade do serviço.
+
+ > ## Escalabilidade e Elasticidade
+
+* Escalabilidade: capacidade de aumentar ou diminuir recursos conforme a demanda (ex.: subir de uma VM pequena para uma maior).
+* Elasticidade: ajuste automático dos recursos conforme o uso. A nuvem expande ou reduz a carga conforme necessário.
+
+ > ## Confiabilidade
+
+Serviços na nuvem são projetados para tolerar falhas, replicar dados e manter a continuidade de negócios.
+Azure utiliza redundância regional e geográfica para manter sistemas operando mesmo diante de falhas.
+
+ > ## Previsibilidade
+
+A nuvem permite prever:
+
+Desempenho (através de recursos configuráveis e monitoramento)
+Custos (com modelos de cobrança baseados em uso e ferramentas de estimativa)
+
+ > ## Segurança
+
+Envolve proteção de dados, identidades e redes com ferramentas como:
+
+* Criptografia
+* Identidade e acesso (IAM)
+* Monitoramento de ameaças
+* Firewalls e políticas avançadas
+* Segurança na nuvem segue o modelo de responsabilidade compartilhada entre cliente e provedor.
+
+ > ## Governança
+
+Conjunto de políticas e regras para padronizar recursos, controlar custos e garantir conformidade.
+Ferramentas como Azure Policy, Blueprints e tags ajudam na organização e controle.
+
+ > ## Gerenciabilidade
+
+A nuvem permite gerenciar todos os recursos a partir de portais centralizados e APIs, garantindo:
+
+* Monitoramento
+* Automação
+* Logging
+* Alertas
+* Gestão simplificada de recursos e ambientes
